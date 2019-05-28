@@ -1,0 +1,27 @@
+{
+  "name": "roundoff",
+  "version": "1.0.0",
+  "description": "This moudule simply roundoff the floating number to the decimal place you supplied.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnsunam/roundoff.git"
+  },
+  "keywords": [
+    "ronudoff",
+    "floating",
+    "decimal"
+  ],
+  "author": "john sunam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnsunam/roundoff/issues"
+  },
+  "homepage": "https://github.com/johnsunam/roundoff#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
