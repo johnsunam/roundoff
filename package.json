@@ -1,5 +1,5 @@
 {
-  "name": "roundoff",
+  "name": "@johnsunam/roundoff",
   "version": "1.0.0",
   "description": "This moudule simply roundoff the floating number to the decimal place you supplied.",
   "main": "src/index.js",
